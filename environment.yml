@@ -34,7 +34,7 @@ dependencies:
   - freetype=2.11.0=h70c0345_0
   - frozenlist=1.2.0=py38h7f8727e_0
   - giflib=5.2.1=h7b6447c_0
-  - glib=2.69.1=h4ff587b_1
+  - glib=2.69.1
   - gmp=6.2.1=h295c915_3
   - gnutls=3.6.15=he1e5248_0
   - google-auth=2.6.0=pyhd3eb1b0_0
